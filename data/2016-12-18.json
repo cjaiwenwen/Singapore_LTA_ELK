@@ -1,0 +1,143 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.3621494418493596, 
+            "Longitude": 103.96309056646412, 
+            "Message": "(18/12)1:31 Roadworks on Loyang Avenue (towards Old Tampines Road) after Pasir Ris Drive 1. Loyang Avenue closed after Pasir Ris Drive 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.362237262967724, 
+            "Longitude": 103.96311781565949, 
+            "Message": "(18/12)1:30 Roadworks on Loyang Avenue (towards Pasir Ris Drive 1) after Old Tampines Road. Loyang Avenue closed after Old Tampines Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3182562264617124, 
+            "Longitude": 103.96627390067877, 
+            "Message": "(18/12)1:11 Roadworks on ECP (towards Changi Airport) after Bayshore. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3784874153982283, 
+            "Longitude": 103.92345129599542, 
+            "Message": "(18/12)0:53 Roadworks on TPE (towards SLE) before Tampines Rd Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3230132535735646, 
+            "Longitude": 103.81416260188296, 
+            "Message": "(18/12)0:49 Roadworks on Bukit Timah Road (towards Woodlands) at Bt Timah Underpass. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3256233658069076, 
+            "Longitude": 103.86630332338584, 
+            "Message": "(18/12)0:04 Roadworks on Serangoon Road (towards Sengkang) after St George`s Rd. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2710249923094232, 
+            "Longitude": 103.86072284104708, 
+            "Message": "(18/12)0:01 Road Closure on MCE (towards ECP) after Central Blvd Exit.", 
+            "Type": "Road Block"
+        }, 
+        {
+            "Latitude": 1.3208258306852405, 
+            "Longitude": 103.87728001002465, 
+            "Message": "(18/12)0:01 Roadworks on KPE (towards TPE) at Sims Avenue Entrance. Sims Avenue Entrance closed.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2884240954866235, 
+            "Longitude": 103.87681687009805, 
+            "Message": "(18/12)0:01 Road Closure on MCE (towards AYE) before ECP (City) Entrance.", 
+            "Type": "Road Block"
+        }, 
+        {
+            "Latitude": 1.399259091329509, 
+            "Longitude": 103.75536496431796, 
+            "Message": "(17/12)22:42 Roadworks on Woodlands Road (towards Woodlands Checkpoint) after Sungei Kadut Ave. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3318025900625656, 
+            "Longitude": 103.95396695550265, 
+            "Message": "(17/12)22:26 Roadworks on Upper Changi Road East (toward Changi) after Bedok Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2664214892966117, 
+            "Longitude": 103.81856897580744, 
+            "Message": "(17/12)22:17 Roadworks on Telok Blangah Road (towards Tuas) after Sentosa Gateway.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.282387393091378, 
+            "Longitude": 103.8521062172302, 
+            "Message": "(17/12)22:15 Roadworks on Collyer Quay (towards Shenton Way) after Fullerton Road. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2996934979457384, 
+            "Longitude": 103.85102333703237, 
+            "Message": "(17/12)21:44 Roadworks on Bencoolen Street near Bencoolen Street/Lorong Payah Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.336326711680813, 
+            "Longitude": 103.89469941701057, 
+            "Message": "(17/12)21:43 Roadworks on Airport Road (towards Tai Seng Avenue) after Eunos Link. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.37355618967159, 
+            "Longitude": 103.9309008986948, 
+            "Message": "(17/12)21:34 Roadworks on Tampines Avenue 10 (towards Tampines Industrial Avenue 5) after TPE.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.334029893912597, 
+            "Longitude": 103.81754207131405, 
+            "Message": "(17/12)21:28 Roadworks on Adam Road (towards Braddell) after PIE. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2779921077109189, 
+            "Longitude": 103.84940357388477, 
+            "Message": "(17/12)21:24 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2807024427528952, 
+            "Longitude": 103.83924795231819, 
+            "Message": "(17/12)21:14 Roadworks on Outram Road (towards Eu Tong Sen Street) after Second Hospital Avenue.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.331411060837008, 
+            "Longitude": 103.79580457706922, 
+            "Message": "(17/12)21:11 Roadworks on Bukit Timah Road (towards Woodlands) after Fourth Ave.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2972578848337033, 
+            "Longitude": 103.85044528674388, 
+            "Message": "(17/12)20:31 Roadworks on Bras Basah Road (towards Raffles Boulevard) after Prinsep Street. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3258148779107053, 
+            "Longitude": 103.75727369647548, 
+            "Message": "(17/12)20:29 Roadworks on Commonwealth Avenue West (towards City) after Toh Tuck Avenue.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3002821131941196, 
+            "Longitude": 103.89753930117715, 
+            "Message": "(17/12)19:33 Roadworks on Tanjong Katong Road South (towards Amber Gardens) after ECP. Avoid left lane.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

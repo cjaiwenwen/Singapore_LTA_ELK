@@ -1,0 +1,119 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.3229850009069906, 
+            "Longitude": 103.88253218859614, 
+            "Message": "(15/1)23:54 Roadworks on KPE (towards ECP) before PIE(Tuas) Exit. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3303487753259664, 
+            "Longitude": 103.67352176851527, 
+            "Message": "(15/1)23:51 Roadworks on PIE (towards Tuas) after Upper Jurong Rd. Avoid lanes 2 and 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2929854185892133, 
+            "Longitude": 103.87536839856266, 
+            "Message": "(15/1)23:45 Roadworks on MCE (towards AYE) before ECP (City) Entrance.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.394994532186857, 
+            "Longitude": 103.81672854890833, 
+            "Message": "(15/1)23:31 Roadworks on SLE (towards CTE) after Upper Thomson Rd Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3440327087151576, 
+            "Longitude": 103.8458522356566, 
+            "Message": "(15/1)23:17 Roadworks on Bishan Flyover (towards Bartley) after Marymount Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2810007028468593, 
+            "Longitude": 103.83901136785663, 
+            "Message": "(15/1)23:06 Roadworks on Outram Road near Outram Road/Second Hospital Avenue Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3949807862780093, 
+            "Longitude": 103.81678848427599, 
+            "Message": "(15/1)22:14 Roadworks on SLE (towards CTE) after Upper Thomson Rd Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3201031643477936, 
+            "Longitude": 103.87612407319168, 
+            "Message": "(15/1)22:06 Roadworks on PIE (towards Tuas) after KPE Exit. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3770495922354258, 
+            "Longitude": 103.73047604914677, 
+            "Message": "(15/1)22:02 Roadworks on KJE (towards PIE) after Sungei Tengah Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3355586287413113, 
+            "Longitude": 103.81851501986543, 
+            "Message": "(15/1)21:59 Roadworks on Adam Road (towards Queensway) after MacRitchie viaduct. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3942755118667547, 
+            "Longitude": 103.8200925571081, 
+            "Message": "(15/1)21:45 Roadworks on SLE (towards CTE) at Upper Thomson Rd Entrance. Upper Thomson Rd Entrance closed.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2993204495000439, 
+            "Longitude": 103.85073444332062, 
+            "Message": "(15/1)21:24 Roadworks on Bencoolen Street (towards Lorong Payah) after Prinsep Link. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2813161367921353, 
+            "Longitude": 103.83878241196811, 
+            "Message": "(15/1)21:23 Roadworks on Outram Road near Outram Road/Second Hospital Avenue Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.297286395698493, 
+            "Longitude": 103.89796667169712, 
+            "Message": "(15/1)21:22 Roadworks on ECP (towards Changi Airport) after Tg Katong Rd Exit. Avoid lanes 3 and 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.303261178650432, 
+            "Longitude": 103.82349127865609, 
+            "Message": "(15/1)20:48 Roadworks on Grange Road (towards Orchard Boulevard) after Cuscaden Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3027563559184256, 
+            "Longitude": 103.8242108362334, 
+            "Message": "(15/1)20:48 Roadworks on Orchard Boulevard near Grange Road/Orchard Boulevard Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3191984527109337, 
+            "Longitude": 103.82560505961561, 
+            "Message": "(15/1)20:30 Roadworks on Stevens Road (towards Robin Close) after Bukit Timah Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3301463896746253, 
+            "Longitude": 103.67962582777889, 
+            "Message": "(15/1)20:27 Roadworks on Upper Jurong Road (towards Tuas) after Pioneer Road North.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3353720665886633, 
+            "Longitude": 103.81838419997337, 
+            "Message": "(15/1)20:20 Roadworks on Adam Road (towards Braddell) after PIE. Avoid right lane.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

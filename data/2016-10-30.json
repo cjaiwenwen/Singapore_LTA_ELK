@@ -1,0 +1,29 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.395301781418538, 
+            "Longitude": 103.83772081162724, 
+            "Message": "(30/10)1:54 Vehicle breakdown on SLE (towards CTE) after Lentor Ave Exit.", 
+            "Type": "Vehicle breakdown"
+        }, 
+        {
+            "Latitude": 1.2933178325073622, 
+            "Longitude": 103.86126864605257, 
+            "Message": "(30/10)1:21 Accident on ECP (towards City) at Rochor Rd Exit.", 
+            "Type": "Accident"
+        }, 
+        {
+            "Latitude": 1.3931244412928274, 
+            "Longitude": 103.82265146519431, 
+            "Message": "(30/10)1:00 Roadworks on SLE (towards BKE) at Upper Thomson Rd Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3318773877099834, 
+            "Longitude": 103.96590586925761, 
+            "Message": "(29/10)22:02 Roadworks on Changi South Avenue 2 (towards Changi South Avenue 3) after Changi South Street 2. Avoid left lane.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

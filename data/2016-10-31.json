@@ -1,0 +1,65 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.396523929313718, 
+            "Longitude": 103.84367517601052, 
+            "Message": "(31/10)1:54 Roadworks on SLE (towards CTE) after Lentor Ave Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2723732481448025, 
+            "Longitude": 103.8326083860266, 
+            "Message": "(31/10)1:33 Roadworks on AYE (towards Tuas) after Telok Blangah Rd Exit. Avoid lane 2.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2753973853217462, 
+            "Longitude": 103.86704912165233, 
+            "Message": "(31/10)0:13 Roadworks on MCE (towards ECP) at Marina Boulevard Entrance. Marina Boulevard Entrance closed.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2729886808751276, 
+            "Longitude": 103.85335095314943, 
+            "Message": "(30/10)23:58 Roadworks on MCE (towards ECP) after Maxwell Rd Entrance. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3351945342157965, 
+            "Longitude": 103.89304193741923, 
+            "Message": "(30/10)23:30 Roadworks on KPE (towards TPE) between Upper Paya Lebar Rd Exit and Bartley Rd East Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3318773877099834, 
+            "Longitude": 103.96590586925761, 
+            "Message": "(30/10)23:19 Roadworks on Changi South Avenue 2 (towards Changi South Avenue 3) after Changi South Street 2. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3290188818462354, 
+            "Longitude": 103.7577532380353, 
+            "Message": "(30/10)23:12 Roadworks on Toh Tuck Avenue (towards Old Toh Tuck Road) after Toh Tuck Link. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.326281253265207, 
+            "Longitude": 103.75711013649943, 
+            "Message": "(30/10)23:10 Roadworks on Toh Tuck Avenue near Boon Lay Way/Commonwealth Avenue West Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3214940706743765, 
+            "Longitude": 103.85617721041746, 
+            "Message": "(30/10)22:13 Roadworks on CTE (towards AYE) after Balestier Rd Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.320654917844561, 
+            "Longitude": 103.88101949326021, 
+            "Message": "(30/10)22:09 Roadworks on PIE (towards Changi Airport) after Kallang Way. Avoid lanes 1 and 2.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

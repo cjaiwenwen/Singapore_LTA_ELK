@@ -1,0 +1,101 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.3929205152370714, 
+            "Longitude": 103.82749812282425, 
+            "Message": "(29/10)1:48 Roadworks on SLE (towards BKE) before Upper Thomson Rd Exit. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2927288586991568, 
+            "Longitude": 103.85653196457739, 
+            "Message": "(29/10)1:37 Roadworks on Raffles Boulevard (towards Raffles Link) after Bras Basah Road. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3281709280605323, 
+            "Longitude": 103.70827656266037, 
+            "Message": "(28/10)23:35 Roadworks on International Road (towards Jalan Boon Lay) after Jalan Boon Lay. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3310055774377252, 
+            "Longitude": 103.90318084054776, 
+            "Message": "(28/10)22:58 Roadworks on Eunos Link (towards Hougang) after Bedok Reservoir Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2777312990972918, 
+            "Longitude": 103.84921388208119, 
+            "Message": "(28/10)22:51 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3297883475797565, 
+            "Longitude": 103.68527127577119, 
+            "Message": "(28/10)22:49 Roadworks on Upper Jurong Road (towards City) after PIE. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.277624222763363, 
+            "Longitude": 103.84913758663536, 
+            "Message": "(28/10)22:44 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3318773877099834, 
+            "Longitude": 103.96590586925761, 
+            "Message": "(28/10)22:40 Roadworks on Changi South Avenue 2 (towards Changi South Avenue 3) after Changi South Street 2.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3025523641345533, 
+            "Longitude": 103.8363309543938, 
+            "Message": "(28/10)22:33 Roadworks on Orchard Road (towards Bras Basah Rd) after Bideford Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.283872174151026, 
+            "Longitude": 103.85279611754103, 
+            "Message": "(28/10)22:26 Roadworks on Collyer Quay (towards Guillemard) after Marina Boulevard. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3317623605374944, 
+            "Longitude": 103.95585900348787, 
+            "Message": "(28/10)22:01 Roadworks on Xilin Avenue (towards Upper Changi Road East) after Changi South Avenue 1. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3329529536841593, 
+            "Longitude": 103.95422380045063, 
+            "Message": "(28/10)21:59 Roadworks on Simei Avenue (towards Upper Changi Road) after Upper Changi Road East. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.296162003223256, 
+            "Longitude": 103.85609001117257, 
+            "Message": "(28/10)21:56 Roadworks on Beach Road near Beach Road/Middle Road Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.278710442188062, 
+            "Longitude": 103.8498080100852, 
+            "Message": "(28/10)21:40 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4227505927962572, 
+            "Longitude": 103.75643538188727, 
+            "Message": "(28/10)20:52 Roadworks on Woodlands Road (towards Woodlands Checkpoint) after Mandai Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4238039525698387, 
+            "Longitude": 103.75815795314527, 
+            "Message": "(28/10)20:51 Roadworks on Woodlands Road (towards City) after BKE. Avoid right lane.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

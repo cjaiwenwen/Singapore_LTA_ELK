@@ -1,0 +1,233 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.3503689349898937, 
+            "Longitude": 103.96151556154886, 
+            "Message": "(23/11)1:13 Roadworks on PIE (towards Tuas) at Upper Changi Rd East(North) Entrance.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4202845812655511, 
+            "Longitude": 103.7987973687793, 
+            "Message": "(23/11)0:39 Roadworks on SLE (towards BKE) after Mandai Rd Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2731781662693997, 
+            "Longitude": 103.85298250111263, 
+            "Message": "(23/11)0:09 Roadworks on MCE (towards ECP) before Maxwell Rd Entrance. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3284034408152818, 
+            "Longitude": 103.86858992209999, 
+            "Message": "(23/11)0:05 Roadworks in Woodsville Tunnel (towards City). Woodsville Tunnel closed.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3420507738425518, 
+            "Longitude": 103.89890236506805, 
+            "Message": "(23/11)0:01 Roadworks on KPE (towards ECP) at Airport Road Exit. Airport Road Exit closed.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3100928369710505, 
+            "Longitude": 103.84399414510946, 
+            "Message": "(22/11)23:39 Roadworks in CTE Tunnel (towards AYE) between Yio Chu Kang Rd Exit and Bukit Timah Rd Exit. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.340849027543214, 
+            "Longitude": 103.981625058851, 
+            "Message": "(22/11)23:30 Roadworks on ECP (towards City) before PIE(Tuas) Exit. Avoid lanes 1 and 2.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2966844426209638, 
+            "Longitude": 103.7838926538057, 
+            "Message": "(22/11)23:30 Roadworks on AYE (towards Tuas) after Buona Vista exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2979456704024253, 
+            "Longitude": 103.846223921462, 
+            "Message": "(22/11)23:20 Roadworks on Penang Road (towards Fort Canning Link) after Orchard Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3781048214354448, 
+            "Longitude": 103.91267543887113, 
+            "Message": "(22/11)23:19 Roadworks on KPE (towards TPE) before TPE(SLE) Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2921750209229537, 
+            "Longitude": 103.84361605317295, 
+            "Message": "(22/11)23:15 Roadworks in CTE Tunnel (towards SLE) after Merchant Rd Exit. Avoid lanes 1 and 2.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3047589163248026, 
+            "Longitude": 103.84012380347424, 
+            "Message": "(22/11)23:05 Roadworks in CTE Tunnel (towards AYE) before Orchard Rd Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2663511193117054, 
+            "Longitude": 103.81833643580256, 
+            "Message": "(22/11)22:49 Roadworks on Harbourfront Avenue (towards Telok Blangah Road) after Harbourfront Place. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2781291276130073, 
+            "Longitude": 103.84947131546436, 
+            "Message": "(22/11)22:34 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3523255778951377, 
+            "Longitude": 103.7302679051132, 
+            "Message": "(22/11)22:26 Roadworks on PIE (towards Tuas) before Jurong East Ave 1. Avoid lanes 1 and 2.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3418129731303519, 
+            "Longitude": 103.78045952563556, 
+            "Message": "(22/11)22:17 Roadworks on PIE (towards Tuas) after Clementi Rd Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2802160730415084, 
+            "Longitude": 103.82371438446712, 
+            "Message": "(22/11)22:16 Roadworks on Lower Delta Road (towards Jalan Bukit Merah) after Jalan Bukit Merah.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3546019034320733, 
+            "Longitude": 103.8326443049193, 
+            "Message": "(22/11)22:14 Roadworks on Upper Thomson Road (towards SLE) after Jalan Pelatina. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.329543425214274, 
+            "Longitude": 103.85012856783025, 
+            "Message": "(22/11)22:02 Roadworks on PIE (towards Tuas) after Toa Payoh Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.284351305508447, 
+            "Longitude": 103.85294527871568, 
+            "Message": "(22/11)21:45 Roadworks on Collyer Quay (towards Guillemard) after Marina Boulevard. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3184717326067483, 
+            "Longitude": 103.85142232668115, 
+            "Message": "(22/11)21:43 Roadworks on CTE (towards AYE) after Moulmein Rd Exit. Avoid lane 2.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3133489696639764, 
+            "Longitude": 103.87471260630312, 
+            "Message": "(22/11)21:42 Roadworks on Sims Avenue near Sims Way Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3027125030914017, 
+            "Longitude": 103.82416176679614, 
+            "Message": "(22/11)21:34 Roadworks on Orchard Boulevard near Grange Road/Orchard Boulevard Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3022297591568786, 
+            "Longitude": 103.82336044540592, 
+            "Message": "(22/11)21:33 Roadworks on Grange Road (towards Rochalie Drive) after Grange Garden. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.276592961138044, 
+            "Longitude": 103.8485119381613, 
+            "Message": "(22/11)21:31 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2787201257038348, 
+            "Longitude": 103.84871726646885, 
+            "Message": "(22/11)21:29 Roadworks on Robinson Road near Mccallum Street/Robinson Road Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.295905216492886, 
+            "Longitude": 103.85184833540423, 
+            "Message": "(22/11)21:03 Roadworks on Victoria Street near Bras Basah Road/Victoria Street Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3023506812381282, 
+            "Longitude": 103.83672749142187, 
+            "Message": "(22/11)21:02 Roadworks on Orchard Road (towards Bras Basah Rd) after Bideford Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2960971954900107, 
+            "Longitude": 103.85178832307201, 
+            "Message": "(22/11)21:01 Roadworks on Bras Basah Road (towards Raffles Boulevard) after Prinsep Street. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3254857164828542, 
+            "Longitude": 103.75785695748031, 
+            "Message": "(22/11)20:47 Roadworks on Commonwealth Avenue West (towards City) after Toh Tuck Avenue. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3518554201534827, 
+            "Longitude": 103.83553713271834, 
+            "Message": "(22/11)20:46 Roadworks on Upper Thomson Road (towards SLE) after Jalan Pelatina. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2973001597027733, 
+            "Longitude": 103.89798298959609, 
+            "Message": "(22/11)20:45 Roadworks on ECP (towards Changi Airport) after Tg Katong Rd Exit. Avoid lanes 2 and 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3265829433631846, 
+            "Longitude": 103.75721912183323, 
+            "Message": "(22/11)20:42 Roadworks on Toh Tuck Avenue near Commonwealth Avenue West/Toh Tuck Avenue Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3546841734437836, 
+            "Longitude": 103.83258435265581, 
+            "Message": "(22/11)20:40 Roadworks on Upper Thomson Road (towards Newton) after Bright Hill Drive. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2776794142911703, 
+            "Longitude": 103.82469720489256, 
+            "Message": "(22/11)20:34 Roadworks on AYE (towards Tuas) at Lower Delta Rd Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2999452638905558, 
+            "Longitude": 103.85228406922998, 
+            "Message": "(22/11)19:58 Roadworks on Middle Road near Middle Road/Waterloo Street Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3070904485058965, 
+            "Longitude": 103.87645380737841, 
+            "Message": "(22/11)19:09 Roadworks on Nicoll Highway (towards Shenton Way) after Mountbatten Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3519561842420487, 
+            "Longitude": 103.94150801564044, 
+            "Message": "(22/11)19:09 Roadworks on Tampines Avenue 5 (towards Tampines Avenue 4) after Tampines Central 2. Avoid right lane.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

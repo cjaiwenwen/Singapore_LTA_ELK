@@ -1,0 +1,47 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.3940752145378976, 
+            "Longitude": 103.8328044923554, 
+            "Message": "(22/1)22:38 Roadworks on SLE (towards CTE) after Lentor Ave Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4213331016597908, 
+            "Longitude": 103.77268246168464, 
+            "Message": "(22/1)22:22 Roadworks on SLE (towards BKE) at Turf Club Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.302558930959451, 
+            "Longitude": 103.82364394433074, 
+            "Message": "(22/1)22:04 Roadworks on Orchard Boulevard (towards Rochalie Drive) after Orchard Spring Lane. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3737950626860944, 
+            "Longitude": 103.93596347234042, 
+            "Message": "(22/1)22:00 Roadworks on TPE (towards SLE) after Tampines Rd Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3350860215305396, 
+            "Longitude": 103.65061625513864, 
+            "Message": "(22/1)21:30 Roadworks on AYE (towards Tuas) after Tuas West Rd Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.325760046796978, 
+            "Longitude": 103.97246019001501, 
+            "Message": "(22/1)21:27 Roadworks on ECP (towards Changi Airport) after Xilin Ave Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3319316207424081, 
+            "Longitude": 103.95422680574755, 
+            "Message": "(22/1)19:17 Roadworks on Upper Changi Road East (toward City) after Xilin Avenue. Avoid right lane.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

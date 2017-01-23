@@ -1,0 +1,101 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.3493855464173752, 
+            "Longitude": 103.6936655248038, 
+            "Message": "(25/12)1:36 Roadworks on PIE (towards Tuas) after Jalan Bahar. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3224358571204045, 
+            "Longitude": 103.7148266579167, 
+            "Message": "(25/12)1:13 Roadworks on AYE (towards Tuas) before Jurong Pier Rd Exit. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4175921074019484, 
+            "Longitude": 103.80246609320686, 
+            "Message": "(25/12)0:02 Roadworks on SLE (towards CTE) before Mandai Ave Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2773993803539803, 
+            "Longitude": 103.84900793534923, 
+            "Message": "(24/12)23:57 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3034137202936813, 
+            "Longitude": 103.86688592790655, 
+            "Message": "(24/12)23:09 Roadworks on Republic Avenue near Nicoll Highway/Republic Avenue Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.270775876001946, 
+            "Longitude": 103.830670866901, 
+            "Message": "(24/12)22:58 Roadworks on Keppel Road (towards Tuas) after Cantonment Link. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.319501315298813, 
+            "Longitude": 103.82557593661234, 
+            "Message": "(24/12)22:39 Roadworks on Stevens Road (towards Robin Close) after Bukit Timah Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4333829438298324, 
+            "Longitude": 103.7880848592667, 
+            "Message": "(24/12)22:04 Roadworks on Woodlands Avenue 2 (towards Woodlands Avenue 1) after Woodlands Avenue 5.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3313541069172907, 
+            "Longitude": 103.79540875501131, 
+            "Message": "(24/12)22:03 Roadworks on Sixth Avenue (towards Bukit Timah Road) after Anamalai Avenue. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3314638742448226, 
+            "Longitude": 103.79570861048161, 
+            "Message": "(24/12)21:53 Roadworks on Bukit Timah Road (towards Woodlands) after Fourth Ave. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3534683730703028, 
+            "Longitude": 103.83407337292276, 
+            "Message": "(24/12)21:50 Roadworks on Upper Thomson Road (towards SLE) after Jalan Pelatina. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4247029385194208, 
+            "Longitude": 103.79691000131223, 
+            "Message": "(24/12)21:48 Roadworks on Woodlands Avenue 12 near Woodlands Avenue 1/Woodlands Avenue 12 Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.322464727506705, 
+            "Longitude": 103.6896974295954, 
+            "Message": "(24/12)21:13 Roadworks on Jalan Ahmad Ibrahim (towards Benoi Sector) after Pioneer Circus. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.309485036491814, 
+            "Longitude": 103.73841204712762, 
+            "Message": "(24/12)20:50 Roadworks on Jalan Buroh (towards Tuas) after Tanjong Penjuru. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.314154690722548, 
+            "Longitude": 103.72009335056843, 
+            "Message": "(24/12)20:49 Roadworks on Jalan Buroh (towards Tuas) after Penjuru Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3141300082144882, 
+            "Longitude": 103.7204367768312, 
+            "Message": "(24/12)20:48 Roadworks on Jalan Buroh (towards City) after Jurong Port Road.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

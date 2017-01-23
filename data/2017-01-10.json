@@ -1,0 +1,239 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.2841976746201413, 
+            "Longitude": 103.86051584026714, 
+            "Message": "(10/1)23:58 Roadworks on Bayfront Avenue (towards Sheares Link) after Raffles Avenue.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3311198422064137, 
+            "Longitude": 103.9530314106235, 
+            "Message": "(10/1)23:57 Roadworks on Upper Changi Road East (toward Changi) after Bedok Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3012843283906699, 
+            "Longitude": 103.84299609356803, 
+            "Message": "(10/1)23:53 Roadworks in CTE Tunnel (towards SLE) before Kramat Rd Entrance. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3508311043993984, 
+            "Longitude": 103.85781009896861, 
+            "Message": "(10/1)23:50 Roadworks on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.326847307633311, 
+            "Longitude": 103.83024911654664, 
+            "Message": "(10/1)23:21 Roadworks on PIE (towards Changi Airport) at Mount Pleasant Entrance.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3339208302233214, 
+            "Longitude": 103.76539809689642, 
+            "Message": "(10/1)23:12 Roadworks on PIE (towards Changi Airport) at Clementi Ave 6 Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2922773522270508, 
+            "Longitude": 103.85127171453914, 
+            "Message": "(10/1)23:04 Roadworks on North Bridge Road near Coleman Street/North Bridge Road Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3382951827669007, 
+            "Longitude": 103.67749817170343, 
+            "Message": "(10/1)22:59 Roadworks on PIE (towards Tuas) before Upper Jurong Rd. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3264137641515168, 
+            "Longitude": 103.86101633907118, 
+            "Message": "(10/1)22:58 Roadworks on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 5.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2967095489924876, 
+            "Longitude": 103.89646229791568, 
+            "Message": "(10/1)22:30 Roadworks on ECP (towards Changi Airport) before Tg Katong Rd Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.326370572102374, 
+            "Longitude": 103.65990170413761, 
+            "Message": "(10/1)22:26 Roadworks on AYE (towards MCE) after PIE Exit. Avoid lane 1.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2723926908231293, 
+            "Longitude": 103.83588677314191, 
+            "Message": "(10/1)22:15 Roadworks on AYE (towards MCE) after Keppel Rd Entrance. Avoid lanes 1 and 2.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.426236913238843, 
+            "Longitude": 103.78614008771311, 
+            "Message": "(10/1)22:08 Roadworks on SLE (towards BKE) before Woodlands Ave 2 Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3241921548142777, 
+            "Longitude": 103.81080405112307, 
+            "Message": "(10/1)22:07 Roadworks on Dunearn Road (towards City) at Dunearn Underpass. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3770825189009521, 
+            "Longitude": 103.73044881202969, 
+            "Message": "(10/1)22:06 Roadworks on KJE (towards BKE) after Sungei Tengah Exit. Avoid lane 4.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3025815570413477, 
+            "Longitude": 103.8363212501323, 
+            "Message": "(10/1)22:05 Roadworks on Orchard Road (towards Bras Basah Rd) after Bideford Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3756717784494945, 
+            "Longitude": 103.93212626728995, 
+            "Message": "(10/1)22:02 Roadworks on TPE (towards PIE) after Pasir Ris Dr 12 Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3413792372984978, 
+            "Longitude": 103.64424521336969, 
+            "Message": "(10/1)22:00 Roadworks on AYE (towards MCE) at Tuas West Rd Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3052427600606105, 
+            "Longitude": 103.83154996938845, 
+            "Message": "(10/1)21:59 Roadworks on Orchard Road (towards Bras Basah Rd) after Tanglin Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2851395704702486, 
+            "Longitude": 103.79871419672988, 
+            "Message": "(10/1)21:56 Roadworks on AYE (towards Tuas) at Alexandra Rd Entrance.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.292893787229809, 
+            "Longitude": 103.80730505571496, 
+            "Message": "(10/1)21:53 Roadworks on Commonwealth Avenue (towards Tuas) after Alexandra Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3225399896276318, 
+            "Longitude": 103.74875793890372, 
+            "Message": "(10/1)21:42 Roadworks on AYE (towards Tuas) at Jurong Town Hall Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3943910603965781, 
+            "Longitude": 103.81973205532519, 
+            "Message": "(10/1)21:39 Roadworks on SLE (towards CTE) at Upper Thomson Rd Entrance. Upper Thomson Rd Entrance closed.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3227456560204927, 
+            "Longitude": 103.68106477296199, 
+            "Message": "(10/1)21:35 Roadworks on AYE (towards MCE) after Benoi Rd Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3033838106145401, 
+            "Longitude": 103.82351722819423, 
+            "Message": "(10/1)21:30 Roadworks on Grange Road (towards Orchard Boulevard) after Cuscaden Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3543899747615507, 
+            "Longitude": 103.83306491410305, 
+            "Message": "(10/1)21:30 Roadworks on Upper Thomson Road (towards SLE) after Jalan Pelatina.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2782115061944583, 
+            "Longitude": 103.84947437100554, 
+            "Message": "(10/1)21:28 Roadworks on Shenton Way (towards Shenton Way) after Central Boulevard.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2824586476775444, 
+            "Longitude": 103.8521498867353, 
+            "Message": "(10/1)21:26 Roadworks on Collyer Quay (towards Shenton Way) after Fullerton Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.331139019209207, 
+            "Longitude": 103.95312407045523, 
+            "Message": "(10/1)21:22 Roadworks on Upper Changi Road East (toward City) after Xilin Avenue. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3442519308274496, 
+            "Longitude": 103.64073765933868, 
+            "Message": "(10/1)21:19 Roadworks on AYE (towards Tuas) at Tuas West Dr Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2983927261104249, 
+            "Longitude": 103.85415366796263, 
+            "Message": "(10/1)21:12 Roadworks on Middle Road near Middle Road/Victoria Street Junction.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.300120893690892, 
+            "Longitude": 103.85199518831948, 
+            "Message": "(10/1)21:08 Roadworks on Middle Road (towards Bencoolen Street) after Waterloo Street.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4112458064162052, 
+            "Longitude": 103.75578940894401, 
+            "Message": "(10/1)21:01 Roadworks on Woodlands Road (towards Woodlands Checkpoint) after Sungei Kadut Ave. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3195342340520535, 
+            "Longitude": 103.82553774805194, 
+            "Message": "(10/1)20:56 Roadworks on Stevens Road (towards Bukit Timah Road) after Robin Close. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.302774812141931, 
+            "Longitude": 103.82371347299427, 
+            "Message": "(10/1)20:55 Roadworks on Orchard Boulevard (towards Grange Road) after Orchard Spring Lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.333968203156305, 
+            "Longitude": 103.74458257997559, 
+            "Message": "(10/1)20:50 Roadworks on Jurong Gateway Road (towards Jurong East Street 21) after Boon Lay Way. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.35736363848226, 
+            "Longitude": 103.82895747992676, 
+            "Message": "(10/1)20:38 Roadworks on Upper Thomson Road (towards Newton) after Sin Ming Avenue. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3221991056022993, 
+            "Longitude": 103.84163658236164, 
+            "Message": "(10/1)20:37 Roadworks on Thomson Road (towards Newton) after Balestier Road. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3247787151130483, 
+            "Longitude": 103.75885112902527, 
+            "Message": "(10/1)20:27 Roadworks on Commonwealth Avenue West (towards City) after Toh Tuck Avenue. Avoid right lane.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

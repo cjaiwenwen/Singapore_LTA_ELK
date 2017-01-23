@@ -1,0 +1,53 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.4008512257756647, 
+            "Longitude": 103.8700438850322, 
+            "Message": "(1/1)23:52 Accident on TPE (towards SLE) at Yio Chu Kang Rd Exit.", 
+            "Type": "Accident"
+        }, 
+        {
+            "Latitude": 1.3591256789908701, 
+            "Longitude": 103.90305840178598, 
+            "Message": "(1/1)23:48 Vehicle breakdown on KPE (towards TPE) before Tampines Rd Exit.", 
+            "Type": "Vehicle breakdown"
+        }, 
+        {
+            "Latitude": 1.361741408239999, 
+            "Longitude": 103.7033437081784, 
+            "Message": "(1/1)23:40 Accident on PIE (towards Changi Airport) after KJE. Avoid lane 2.", 
+            "Type": "Accident"
+        }, 
+        {
+            "Latitude": 1.3304826850080864, 
+            "Longitude": 103.86222486104481, 
+            "Message": "(1/1)23:33 Accident on PIE (towards Changi Airport) after CTE.", 
+            "Type": "Accident"
+        }, 
+        {
+            "Latitude": 1.3411313899551758, 
+            "Longitude": 103.77922053469423, 
+            "Message": "(1/1)23:20 Accident on PIE (towards Tuas) after Clementi Rd Exit. Avoid lanes 1 and 2.", 
+            "Type": "Accident"
+        }, 
+        {
+            "Latitude": 1.4116408264798141, 
+            "Longitude": 103.7558875213796, 
+            "Message": "(1/1)21:49 Roadworks on Woodlands Road (towards City) after Turf Club avenue. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4113527757686637, 
+            "Longitude": 103.75582759527377, 
+            "Message": "(1/1)21:37 Roadworks on Woodlands Road (towards Woodlands Checkpoint) after Sungei Kadut Ave. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2703398717582035, 
+            "Longitude": 103.82996551764947, 
+            "Message": "(1/1)21:15 Roadworks on Keppel Road (towards Tuas) after Cantonment Link.", 
+            "Type": "Roadwork"
+        }
+    ]
+}

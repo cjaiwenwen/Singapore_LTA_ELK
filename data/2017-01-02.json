@@ -1,0 +1,53 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet", 
+    "value": [
+        {
+            "Latitude": 1.3218197995665448, 
+            "Longitude": 103.66600658121216, 
+            "Message": "(2/1)23:48 Roadworks on AYE (towards MCE) after PIE Exit. Avoid lane 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2935875728904553, 
+            "Longitude": 103.86399024478662, 
+            "Message": "(2/1)22:20 Roadworks on ECP (towards City) at Rochor Rd Exit.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.2831719259932572, 
+            "Longitude": 103.85259134418268, 
+            "Message": "(2/1)21:47 Roadworks on Collyer Quay (towards Shenton Way) after Fullerton Road. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3032680428615604, 
+            "Longitude": 103.82351229562406, 
+            "Message": "(2/1)21:46 Roadworks on Grange Road (towards Orchard Boulevard) after Cuscaden Road.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.302774269587948, 
+            "Longitude": 103.82373037464625, 
+            "Message": "(2/1)21:46 Roadworks on Orchard Boulevard (towards Grange Road) after Orchard Spring Lane. Avoid right lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.4109860458041599, 
+            "Longitude": 103.75577783478435, 
+            "Message": "(2/1)21:24 Roadworks on Woodlands Road (towards Woodlands Checkpoint) after Sungei Kadut Ave. Avoid left lane.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3186347892999604, 
+            "Longitude": 103.96700434242051, 
+            "Message": "(2/1)21:14 Roadworks on ECP (towards Changi Airport) after Bayshore. Avoid lanes 2 and 3.", 
+            "Type": "Roadwork"
+        }, 
+        {
+            "Latitude": 1.3544025291412793, 
+            "Longitude": 103.69729803456129, 
+            "Message": "(2/1)21:12 Roadworks on PIE (towards Tuas) before Jalan Bahar. Avoid lanes 3 and 4.", 
+            "Type": "Roadwork"
+        }
+    ]
+}
