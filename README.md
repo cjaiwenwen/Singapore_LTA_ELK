@@ -1,2 +1,2 @@
 # Singapore_LTA_ELK
-Testing with Jenkins
+Testing with Jenkins + git commit
